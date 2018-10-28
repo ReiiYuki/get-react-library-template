@@ -1,2 +1,3 @@
-# get-react-library-template
-Get React Library Template !!!
+# React Library Template
+
+My React Library Template! Feel free to use it :smile:

@@ -20,4 +20,4 @@ My React Library Template! Feel free to use it :smile:
 
 3. Commit your change and update version of your library in `package.json`
 
-4. Let's publish!!! by `npm pulish`
+4. Let's publish!!! by `npm publish`
